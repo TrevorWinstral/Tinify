@@ -2,7 +2,7 @@
 Simple interactions with Tinify Library for EndCoronavirus. This does not shorten the usage of the API by much, but turns the basic interaction into a 1 line command.
 
 # How To use
-Clone Tinify repo into Python3x/Lib/ with ```git clone https://github.com/TrevorWinstral/Tinify.git```
+Clone Tinify repo into Python3x/Lib/ with ```git clone https://github.com/TrevorWinstral/Tinify.git``` and navigate into the folder and execute ```pip install -r requirements.txt```
 
 Next you need to create and TinyPNG API key, this is very simple. Go [here](https://tinypng.com/developers) create an account and you should receive an API key.
 
