@@ -15,7 +15,8 @@ def compress_image(uncompressed_image='input.jpg', compressed_image='compressed.
 		src.to_file(compressed_image)
 		return True
 
-	except:
+	except Exception as e:
+		print(e)
 		return False
 
 if __name__ == '__main__':
